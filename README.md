@@ -7,5 +7,5 @@ The objective of this project is to clean / pre-process the insurance complaints
 To see a complete project overview, please take a glance at the *Insurance Complaints Cleaning Project* document. 
 To view the code, please click on any of the SQL files.
 
-For this project, we used T-SQL as our SQL dialect and SQL Server Management Studio as our SQL Client. 
+For this project, I used T-SQL as our SQL dialect and SQL Server Management Studio as my SQL Client. 
 
