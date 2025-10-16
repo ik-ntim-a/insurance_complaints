@@ -4,7 +4,7 @@ The **Texas Department of Insurance (TDI)** is a government regulatory body resp
 The objective of this project is to clean / pre-process the insurance complaints dataset.
 
 ## Viewing the project
-To see a complete project overview, please take a glance at the *Insurance Complaints Cleaning Project* document. 
+To see a complete project overview, please take a glance at the *Insurance Complaints Cleaning Project* document or visit the google document for a quick overview (https://docs.google.com/document/d/1kCWQdGYbdxT5I6GhyyIapBMBfyAJoKA_Ukn6cQ8OZrw/edit?usp=sharing).
 To view the code, please click on any of the SQL files.
 
 For this project, I used T-SQL as our SQL dialect and SQL Server Management Studio as my SQL Client. 
